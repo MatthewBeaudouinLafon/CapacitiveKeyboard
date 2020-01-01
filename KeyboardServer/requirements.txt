@@ -1,3 +1,4 @@
 flask
 flask-socketio
 eventlet
+TODO: do this properly
